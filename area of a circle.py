@@ -14,27 +14,3 @@ if extension=="py":
     print ("python")
 else:
     print ("Not python")
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           
-           ot python")
- 
