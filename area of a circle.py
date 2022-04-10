@@ -13,7 +13,7 @@ extension= file_name[b-2:b+1]
 if extension=="py":
     print ("python")
 else:
-    print ("N
+    print ("Not python")
            
            
            
